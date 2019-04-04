@@ -46,7 +46,7 @@ class App extends Component {
       score: this.state.score + 1
     });
 
-    if (this.state.score === 16) {
+    if (this.state.score === 24) {
       alert('TOUCHDOWN!!! Go For Two?');
       this.setState({
         friend: this.state.friend.sort(function(a, b) {
