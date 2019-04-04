@@ -21,7 +21,12 @@
 }
 
 li {
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
   color: white;
+  text-shadow: 3px 3px 4px rgb(67, 67, 67);
   padding: 15px 0;
 }
 
@@ -35,7 +40,8 @@ h1 {
   font-size: 3rem;
   text-decoration: underline;
   font-family: 'Faster One', cursive;
-  font-size: 75px;
-  color:white;
+  font-size: 100px;
+  color: white;
   margin-bottom: 50px;
+  text-shadow: 3px 3px 4px rgb(67, 67, 67);
 }

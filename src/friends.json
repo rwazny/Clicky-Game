@@ -110,5 +110,61 @@
     "image": "https://www.profootballrumors.com/files/2016/02/USATSI_8990858.jpg",
     "occupation": "Shady McCoy",
     "location": "Buffalo Bills"
+  },
+  {
+    "id": 17,
+    "name": "Jim Brown",
+    "image": "http://assets.espn.go.com/photo/2008/0807/nfl_g_brown_260.jpg",
+    "occupation": "NA",
+    "location": "Cleveland Browns"
+  },
+  {
+    "id": 18,
+    "name": "Larry Csonka",
+    "image": "https://sep.yimg.com/ay/creativesports/larry-csonka-miami-dolphins-autograph-signing-november-23rd-2013-7.jpg",
+    "occupation": "NA",
+    "location": "Miami Dolphins"
+  },
+  {
+    "id": 19,
+    "name": "Fred Taylor",
+    "image": "http://www1.pictures.gi.zimbio.com/Fred+Taylor+Pittsburgh+Steelers+v+Jacksonville+tSONNwHdxqsl.jpg",
+    "occupation": "NA",
+    "location": "Jacksonville Jaguars"
+  },
+  {
+    "id": 20,
+    "name": "Bo Jackson",
+    "image": "https://i2.wp.com/top10busts.com/wp-content/uploads/2014/10/bo-over-boz-ii.jpg?resize=382%2C422&ssl=1",
+    "occupation": "Bo Knows",
+    "location": "Oakland Raiders"
+  },
+  {
+    "id": 21,
+    "name": "Wilbert Montgomery",
+    "image": "https://i.ebayimg.com/images/g/Bg4AAOSwEH9ZZT6C/s-l300.jpg",
+    "occupation": "NA",
+    "location": "Philadelphia Eagles"
+  },
+  {
+    "id": 22,
+    "name": "Gale Sayers",
+    "image": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-s3.si.com%2Fs3fs-public%2Fsi%2F2010%2Fmagazine%2F08%2F16%2Fgale.sayers.related.aug23%2Fga%2Fle%2Fgale-sayers.jpg&w=1000&q=70",
+    "occupation": "NA",
+    "location": "Chicago Bears"
+  },
+  {
+    "id": 23,
+    "name": "Franco Harris",
+    "image": "https://i.pinimg.com/originals/b6/61/a0/b661a0d5da0d8192a58b30f4f1d35962.jpg",
+    "occupation": "NA",
+    "location": "Pittsburgh Steelers"
+  },
+  {
+    "id": 24,
+    "name": "Shaun Alexander",
+    "image": "https://i.pinimg.com/originals/f4/d2/cf/f4d2cf01e03d24ec82c932c0f29a9616.jpg",
+    "occupation": "NA",
+    "location": "Seattle Seahawks"
   }
 ]
