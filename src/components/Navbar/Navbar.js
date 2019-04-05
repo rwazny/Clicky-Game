@@ -6,11 +6,15 @@ class Navbar extends Component {
   render() {
     return (
       <nav className="navbar navbar-default navbar-fixed-top">
-      <h1>RUNNING WILD</h1>
+        <h1>RUNNING WILD</h1>
         <ul>
           <li className="itemLeft">Test Your Memory</li>
-          <li className="itemCenter" />
-          <li className="itemRight">Score: {this.props.score}</li>
+          <li className="itemLeft">Score: {this.props.score}</li>
+          <li className="itemLeft">
+            Click any image to earn points,but don't click the same image twice,
+            or GAME OVER!!. Click all 24 pics, and you win!
+            <li />
+          </li>
         </ul>
       </nav>
     );

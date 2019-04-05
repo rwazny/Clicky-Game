@@ -52,7 +52,7 @@ class App extends Component {
         friend: this.state.friend.sort(function(a, b) {
           return 0.5 - Math.random();
         }),
-        clickedFriend: [],
+        clickedFriend: [], 
         score: 0
       });
     }
