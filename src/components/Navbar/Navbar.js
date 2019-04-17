@@ -12,7 +12,7 @@ class Navbar extends Component {
           <li className="itemLeft">Score: {this.props.score}</li>
           <li className="itemLeft">
             Click any image to earn points,but don't click the same image twice,
-            or GAME OVER!!. Click all 24 pics, and you win!
+            or GAME OVER!!. Click all 25 pics, and you win!
             <li />
           </li>
         </ul>

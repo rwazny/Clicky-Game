@@ -24,28 +24,28 @@
     "id": 4,
     "name": "Marcus Allen",
     "image": "https://vignette.wikia.nocookie.net/collegefootballmania/images/5/58/Marcus_Allen_Raiders.jpg/revision/latest?cb=20120412041456",
-    "occupation": "N/A",
+    "occupation": "The One and Only",
     "location": "Oakland Raiders"
   },
   {
     "id": 5,
     "name": "Ladanian Tomlinson",
     "image": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-s3.si.com%2Fs3fs-public%2Fsi%2F2012%2Fwriters%2Fkerry_byrne%2F06%2F20%2Fladainian-tomlinson%2Fla%2Fda%2Fin%2Fladainian-tomlinson11.jpg&w=800&q=85",
-    "occupation": "TD",
+    "occupation": "LT",
     "location": "San Diego Chargers"
   },
   {
     "id": 6,
     "name": "Earl Campbell",
     "image": "https://i.pinimg.com/564x/08/de/b2/08deb295bfed5317a834b1b8d521f7f6.jpg",
-    "occupation": "Original Beast-Mode",
+    "occupation": "The Tyler Rose",
     "location": "Houston Oilers"
   },
   {
     "id": 7,
     "name": "Tony Dorsett",
     "image": "https://vignette.wikia.nocookie.net/collegefootballmania/images/4/40/Tony_Dorsett.jpg/revision/latest?cb=20120516095946",
-    "occupation": "N/A",
+    "occupation": "Tony D",
     "location": "Dallas Cowboys"
   },
   {
@@ -101,7 +101,7 @@
     "id": 15,
     "name": "John Riggins",
     "image": "https://i.ebayimg.com/images/g/sJgAAOSwUn9Z5lrB/s-l640.jpg",
-    "occupation": "N/A",
+    "occupation": "Diesel",
     "location": "Washington Redskins"
   },
   {
@@ -115,21 +115,21 @@
     "id": 17,
     "name": "Jim Brown",
     "image": "http://assets.espn.go.com/photo/2008/0807/nfl_g_brown_260.jpg",
-    "occupation": "NA",
+    "occupation": "First Down",
     "location": "Cleveland Browns"
   },
   {
     "id": 18,
     "name": "Larry Csonka",
     "image": "https://sep.yimg.com/ay/creativesports/larry-csonka-miami-dolphins-autograph-signing-november-23rd-2013-7.jpg",
-    "occupation": "NA",
+    "occupation": "Butch Cassidy",
     "location": "Miami Dolphins"
   },
   {
     "id": 19,
     "name": "Fred Taylor",
     "image": "http://www1.pictures.gi.zimbio.com/Fred+Taylor+Pittsburgh+Steelers+v+Jacksonville+tSONNwHdxqsl.jpg",
-    "occupation": "NA",
+    "occupation": "Fragile Fred",
     "location": "Jacksonville Jaguars"
   },
   {
@@ -150,7 +150,7 @@
     "id": 22,
     "name": "Gale Sayers",
     "image": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-s3.si.com%2Fs3fs-public%2Fsi%2F2010%2Fmagazine%2F08%2F16%2Fgale.sayers.related.aug23%2Fga%2Fle%2Fgale-sayers.jpg&w=1000&q=70",
-    "occupation": "NA",
+    "occupation": "Kansas Comet",
     "location": "Chicago Bears"
   },
   {
@@ -164,7 +164,14 @@
     "id": 24,
     "name": "Shaun Alexander",
     "image": "https://i.pinimg.com/originals/f4/d2/cf/f4d2cf01e03d24ec82c932c0f29a9616.jpg",
-    "occupation": "NA",
+    "occupation": "Mr. Touchdown",
+    "location": "Seattle Seahawks"
+  },
+  {
+    "id": 25,
+    "name": "Marshaw Lynch",
+    "image": "http://archive.boston.com/sports/blogs/obnoxiousbostonfan/OBF/marshawn%20lynch.jpg",
+    "occupation": "Beast Mode",
     "location": "Seattle Seahawks"
   }
 ]

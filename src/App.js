@@ -46,13 +46,13 @@ class App extends Component {
       score: this.state.score + 1
     });
 
-    if (this.state.score === 24) {
+    if (this.state.score === 25) {
       alert('TOUCHDOWN!!! Go For Two?');
       this.setState({
         friend: this.state.friend.sort(function(a, b) {
           return 0.5 - Math.random();
         }),
-        clickedFriend: [], 
+        clickedFriend: [],
         score: 0
       });
     }
@@ -72,8 +72,8 @@ class App extends Component {
               key={friend.id}
               name={friend.name}
               image={friend.image}
-              // occupation={friend.occupation}
-              // location={friend.location}
+              occupation={friend.occupation}
+              location={friend.location}
             />
           ))}
         </Wrapper>
